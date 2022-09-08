@@ -1,0 +1,15 @@
+C:\Users\PangPond\Desktop\Pondsed\obj\Debug\net6.0\Pondsed.csproj.AssemblyReference.cache
+C:\Users\PangPond\Desktop\Pondsed\obj\Debug\net6.0\Pondsed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PangPond\Desktop\Pondsed\obj\Debug\net6.0\Pondsed.AssemblyInfoInputs.cache
+C:\Users\PangPond\Desktop\Pondsed\obj\Debug\net6.0\Pondsed.AssemblyInfo.cs
+C:\Users\PangPond\Desktop\Pondsed\obj\Debug\net6.0\Pondsed.csproj.CoreCompileInputs.cache
+C:\Users\PangPond\Desktop\Pondsed\bin\Debug\net6.0\Pondsed.exe
+C:\Users\PangPond\Desktop\Pondsed\bin\Debug\net6.0\Pondsed.deps.json
+C:\Users\PangPond\Desktop\Pondsed\bin\Debug\net6.0\Pondsed.runtimeconfig.json
+C:\Users\PangPond\Desktop\Pondsed\bin\Debug\net6.0\Pondsed.dll
+C:\Users\PangPond\Desktop\Pondsed\bin\Debug\net6.0\ref\Pondsed.dll
+C:\Users\PangPond\Desktop\Pondsed\bin\Debug\net6.0\Pondsed.pdb
+C:\Users\PangPond\Desktop\Pondsed\obj\Debug\net6.0\Pondsed.dll
+C:\Users\PangPond\Desktop\Pondsed\obj\Debug\net6.0\ref\Pondsed.dll
+C:\Users\PangPond\Desktop\Pondsed\obj\Debug\net6.0\Pondsed.pdb
+C:\Users\PangPond\Desktop\Pondsed\obj\Debug\net6.0\Pondsed.genruntimeconfig.cache
